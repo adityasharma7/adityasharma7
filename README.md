@@ -25,7 +25,19 @@ Here are some ideas to get you started:
 </p>
 
 ### 📫 Find me on social media
-- [Twitter](https://twitter.com/adityapsharma7)
-- [LinkedIn](https://www.linkedin.com/in/aditya-p-sharma/)
+
+<a href="https://twitter.com/adityapsharma7">
+  <img
+    alt="Twitter"
+    src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
+  />
+</a>
+<a href="https://www.linkedin.com/in/aditya-p-sharma/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
+
 
 ![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=adityasharma7&show_icons=true)  
