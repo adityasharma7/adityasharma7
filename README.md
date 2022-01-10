@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Github](https://img.shields.io/github/followers/adityasharma7?label=Follow&style=social)](https://github.com/adityasharma7)  
 
 
-<p align="justify">I work as a Sr Enterprise Software Engineer at HotWax Commerce having more than 4 years of hands-on experience developing enterprise applications in Angular, React Native, Ionic, Vue, Apache OFBiz, and Moqui. An open-source enthusiast, I am a PMC Member of Apache OFBiz and Apache Roller which are the top-level projects at Apache Software Foundation. I am also a committer to Apache Community Development. I have been a speaker at Apache Con @Home which is the official global conference of The Apache Software Foundation. I am actively involved in spreading the word of open source and Apache Software Foundation with the various events through the Apache Local Community Initiative as an ALC Indore chapter lead.
+<p align="justify">I work as a Director of Engineering - Digital Experience Platform (DXP) at HotWax Commerce having more than 4 years of hands-on experience developing enterprise applications in Angular, React Native, Ionic, Vue, Apache OFBiz, and Moqui. An open-source enthusiast, I am a PMC Member of Apache OFBiz and Apache Roller which are the top-level projects at Apache Software Foundation. I am also a committer to Apache Community Development. I have been a speaker at Apache Con @Home which is the official global conference of The Apache Software Foundation. I am actively involved in spreading the word of open source and Apache Software Foundation with the various events through the Apache Local Community Initiative as an ALC Indore chapter lead.
 </p>
 
 
