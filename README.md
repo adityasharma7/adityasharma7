@@ -29,7 +29,11 @@ In my current role, I:
 4. Build a team of engineers and mentor them to grow in their careers. 
 5. Collaborate with Product Managers, Business Analysts, Engineering Leads to ensure that the apps we build delights our customers.
 
+## 🤝 Connect with me:
 
-![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=adityasharma7&show_icons=true)  
+<a href="https://www.linkedin.com/in/aditya-p-sharma/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aditya Sharma | LinkedIn"/></a>
+<a href="https://twitter.com/adityapsharma7"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Aditya Sharma | Twitter"/></a>
+<a href="https://stackoverflow.com/users/7130371/aditya-sharma"><img align="left" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Aditya Sharma | Stack Overflow"/></a>  
+<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharma7)
+![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=adityasharma7&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharma7)
