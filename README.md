@@ -16,6 +16,7 @@
 <a href="https://apachecon.com/acah2020/tracks/incubator.html"><img width="344" alt="image" src="https://user-images.githubusercontent.com/15027245/152734896-95bd8fd0-5306-4f19-90b1-817228d3f3e2.png"></a>
 
 <a href="https://github.com/vuestorefront/vue-storefront/graphs/contributors"><img width="378" alt="image" src="https://user-images.githubusercontent.com/15027245/152735495-d86551c6-1717-4c95-b57d-188818b648f2.png"></a>
+<a href="https://github.com/hotwax"><img width="378" alt="image" src="https://user-images.githubusercontent.com/15027245/152737201-d149e5b4-7e9b-4702-a301-b18c2f199821.png"></a>
 
  
   
