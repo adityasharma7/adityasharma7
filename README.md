@@ -76,4 +76,5 @@ In my current role, I:
 <a href="https://stackoverflow.com/users/7130371/aditya-sharma" target="_blank"><img align="left" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Aditya Sharma | Stack Overflow"/></a>  
 <br/>
 
-![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=adityasharma7&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharma7)
+![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=adityasharma7&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharma7)  
+<img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasharma7"/>
