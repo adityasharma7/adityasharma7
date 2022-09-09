@@ -9,7 +9,24 @@
 
 ## 👔  About Me
 
-🚀 Open-source enthusiast.
+🚀 Open-source enthusiast  
+
+🏢 Working as a Director of Engineering - Digital Experience Platform (DXP) at HotWax Commerce having more than 5 years of hands-on experience developing enterprise applications in Angular, React Native, Ionic, Vue, Apache OFBiz, and Moqui. As a Director of Engineering at HotWax Commerce, I am leading the team that is building a digital experiences platform for omnichannel retail solutions with an idea to provide great experience to enterprise customers and consumers. 
+
+
+In my current role, I: 
+1. Design and architect technical solutions for enterprise grade mobile apps.
+2. Give technical guidance to the team of software engineers.
+3. Ensure timely delivery of sprints without comprising software development best practices and product quality. 
+4. Build a team of engineers and mentor them to grow in their careers. 
+5. Collaborate with Product Managers, Business Analysts, Engineering Leads to ensure that the apps we build delights our customers.
+
+💪 Skills   
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40">
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40"> 
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" width="40" height="40"> 
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"> 
+
 
 
 Contributing to various open source initiatives in different roles:
@@ -89,14 +106,6 @@ HotWax Commerce CTO is an open source stack of omnichannel retail apps.
 </table>
   
   
-🏢 Working as a Director of Engineering - Digital Experience Platform (DXP) at HotWax Commerce having more than 5 years of hands-on experience developing enterprise applications in Angular, React Native, Ionic, Vue, Apache OFBiz, and Moqui. As a Director of Engineering at HotWax Commerce, I am leading the team that is building a digital experiences platform for omnichannel retail solutions with an idea to provide great experience to enterprise customers and consumers. 
-
-In my current role, I: 
-1. Design and architect technical solutions for enterprise grade mobile apps.
-2. Give technical guidance to the team of software engineers.
-3. Ensure timely delivery of sprints without comprising software development best practices and product quality. 
-4. Build a team of engineers and mentor them to grow in their careers. 
-5. Collaborate with Product Managers, Business Analysts, Engineering Leads to ensure that the apps we build delights our customers.
 
 ## 🤝 Connect with me:
 
