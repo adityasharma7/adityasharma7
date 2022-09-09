@@ -1,7 +1,7 @@
 
 
 
-<h2 align="center">Hello there! My name is Aditya Sharma. 👋🤓</h2>  
+<h2 align="center">Hello there! My name is Aditya Sharma. 🤓🙏</h2>  
 
 [![Twitter: adityapsharma7](https://img.shields.io/twitter/follow/adityapsharma7?style=social)](https://twitter.com/adityapsharma7)
 [![Linkedin: aditya-p-sharma](https://img.shields.io/badge/-aditya--p--sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-p-sharma/)](https://www.linkedin.com/in/aditya-p-sharma/)
@@ -9,7 +9,10 @@
 
 ## 👔  About Me
 
-🚀 Open-source enthusiast. Contributing to various open source initiatives in different roles:
+🚀 Open-source enthusiast.
+
+
+Contributing to various open source initiatives in different roles:
 
 <table>
  <tr>
