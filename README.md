@@ -10,16 +10,10 @@
 ## 👔  About Me
 
 🚀 Open-source enthusiast  
+<a href="https://ofbiz.apache.org/" target="_blank"><img src = "https://ofbiz.apache.org/images/ofbiz_logo.png" width="100" height="50"></a>
+<a href="https://vuestorefront.io/" target="_blank"><img src = "https://images.contentstack.io/v3/assets/blt189c1df68c6b48d7/blte44e5d5da716daba/624be65852b58c08a42de740/vsf_logo.svg?auto=webp&height=40" width="100" height="50"></a>
+<a href="https://roller.apache.org/"><img alt="image" src="https://www.apache.org/logos/res/roller/roller_highres.png" width="100" height="50"></a>
 
-🏢 Working as a Director of Engineering - Digital Experience Platform (DXP) at HotWax Commerce having more than 5 years of hands-on experience developing enterprise applications in Angular, React Native, Ionic, Vue, Apache OFBiz, and Moqui. As a Director of Engineering at HotWax Commerce, I am leading the team that is building a digital experiences platform for omnichannel retail solutions with an idea to provide great experience to enterprise customers and consumers. 
-
-
-In my current role, I: 
-1. Design and architect technical solutions for enterprise grade mobile apps.
-2. Give technical guidance to the team of software engineers.
-3. Ensure timely delivery of sprints without comprising software development best practices and product quality. 
-4. Build a team of engineers and mentor them to grow in their careers. 
-5. Collaborate with Product Managers, Business Analysts, Engineering Leads to ensure that the apps we build delights our customers.
 
 💪 Skills   
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"></a>
