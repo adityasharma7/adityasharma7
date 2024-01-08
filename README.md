@@ -10,6 +10,8 @@
 
 ## 👔  About Me
 
+Senior software engineer with over six years of experience leading product development and distribution. A proven track record of collaborating cross-functionally with technical teams and stakeholders across all phases of the software development life cycle.
+
 🚀 Open-source enthusiast  
 <a href="https://ofbiz.apache.org/" target="_blank"><img src = "https://ofbiz.apache.org/images/ofbiz_logo.png" width="100" height="50"></a>
 <a href="https://vuestorefront.io/" target="_blank"><img src = "https://images.contentstack.io/v3/assets/blt189c1df68c6b48d7/blte44e5d5da716daba/624be65852b58c08a42de740/vsf_logo.svg?auto=webp&height=40" width="100" height="50"></a>
@@ -26,83 +28,6 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 
 
-Contributing to various open source initiatives in different roles:
-
-<table>
- <tr>
-  <td><a href="https://apache.org/" target="_blank"><img alt="image" src="https://user-images.githubusercontent.com/15027245/152733864-14b84d81-977a-46c1-af94-692066d3b9c6.png"></a></td>
-  <td>  
-  The Apache Software Foundation is a membership corporation, so Members serve a similar role as shareholders do in publicly traded corporations. The Members are the individuals elected to Membership in the corporation; they are eligible to elect new Members and to elect Directors to the Board.
-
-  More information about the membership can be found <a href="https://www.apache.org/foundation/governance/members.html" target="_blank">here</a>. 
-  </td>
-</tr>
- <tr>
-  <td><a href="https://ofbiz.apache.org/" target="_blank"><img alt="image" src="https://user-images.githubusercontent.com/15027245/152733940-9ccfbc14-9770-4f86-a53b-390c2fe19b10.png"></a></td>
-  <td>  
-  Apache OFBiz is an open source enterprise resource planning system. It provides a suite of enterprise applications that integrate and automate many of the business processes of an enterprise. OFBiz is an Apache Software Foundation top level project. 
-A Project Management Committee (PMC) is responsible for the proper management and oversight of an Apache project, and reports directly to the board four times a year.
-
-More information here:  
-https://www.apache.org/dev/pmc.html  
-http://www.apache.org/foundation/governance/pmcs 
-  </td>
-</tr>
- <tr>
-  <td><a href="https://roller.apache.org/"><img alt="image" src="https://user-images.githubusercontent.com/15027245/152733972-92c6e300-e4c2-4173-8095-07796d52491d.png"></a></td>
-  <td>  
-  Apache Roller is a Java-based, full-featured, multi-user and group-blog server suitable for blog sites large and small. 
-  </td>
-</tr>
- <tr>
-  <td><a href="https://community.apache.org/" target="_blank"><img alt="image" src="https://user-images.githubusercontent.com/15027245/152734058-31a1a1c7-0e67-4f15-913d-f8e98b24fe01.png"></a></td>
-  <td>  
-Apache Community Development project creates and provides tools, processes, and advice to help open-source software projects improve their own community health. I have write access to the code repositories of Community Development project. As a committer, I directly contribute to the project as well review other contributions.   
-  </td>
-</tr>
- <tr>
-  <td><a href="https://s.apache.org/alc"><img alt="image" src="https://user-images.githubusercontent.com/15027245/152734085-ebea0c01-3626-471b-8c41-251c0e17825d.png"></a></td>
-  <td>  
-ALC comprises local groups of Apache (Open Source) enthusiasts, called an 'ALC Chapter'. There will be a single ALC chapter per town/city. As a chapter lead
-Each ALC Chapter will have one Chapter Lead and will have the following roles and responsibilities.
-
-1. Making sure the ALC Code of Conduct is followed by their ALC Chapter.
-2. All the events organized by the ALC Chapter are following the Guidelines to organise ALC Event.
-3. Submit the status report to ComDev (mailto:dev@community.apache.org) in every three months based on their reporting cycle.
-4. The Chapter activities are in line with ALC Roles and Responsibilities.
-5. Chapter Lead will be the point of contact for the respective ALC Chapter.
-
-We (<a href="https://cwiki.apache.org/confluence/display/COMDEV/ALC+Indore" >ALC Indore</a>) are spreading the words of Open Source through various <a href="https://cwiki.apache.org/confluence/display/COMDEV/ALC+Indore+Events">events</a>. 
-  </td>
-</tr>
- <tr>
-  <td><a href="https://apachecon.com/acah2020/tracks/incubator.html"><img alt="image" src="https://user-images.githubusercontent.com/15027245/152734896-95bd8fd0-5306-4f19-90b1-817228d3f3e2.png"></a></td>
-  <td>  
-Gave a talk on Apache Incubator, & How incubator communities are built? (in Hindi language).  
-Link to track listing:  
-https://www.apachecon.com/acah2020/tracks/incubator.html
-
-Slides:  
-https://speakerdeck.com/adityasharma/apache-incubator-and-how-incubator-communities-are-built  
-  </td>
-</tr>
-<tr>
-  <td><a href="https://github.com/vuestorefront/vue-storefront/graphs/contributors" target="_blank"><img alt="image" src="https://user-images.githubusercontent.com/15027245/152735495-d86551c6-1717-4c95-b57d-188818b648f2.png"></a></td>
-  <td>  
- The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. Checkout my contribution <a href="https://github.com/vuestorefront/vue-storefront/graphs/contributors">here</a> 
-  </td>
-</tr>
-<tr>
-  <td><a href="https://github.com/hotwax" target="_blank"><img alt="image" src="https://user-images.githubusercontent.com/15027245/152737201-d149e5b4-7e9b-4702-a301-b18c2f199821.png"></a></td>
-  <td>  
-HotWax Commerce CTO is an open source stack of omnichannel retail apps. 
-  </td>
-</tr>
-
-
-</table>
-  
-  
 
 ## 🤝 Connect with me:
 
