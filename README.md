@@ -6,7 +6,8 @@
 
 [![Twitter: adityapsharma7](https://img.shields.io/twitter/follow/adityapsharma7?style=social)](https://twitter.com/adityapsharma7)
 [![Linkedin: aditya-p-sharma](https://img.shields.io/badge/-aditya--p--sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-p-sharma/)](https://www.linkedin.com/in/aditya-p-sharma/)
-[![Github](https://img.shields.io/github/followers/adityasharma7?label=Follow&style=social)](https://github.com/adityasharma7)  
+[![Github](https://img.shields.io/github/followers/adityasharma7?label=Follow&style=social)](https://github.com/adityasharma7) <img src="https://komarev.com/ghpvc/?username=adityasharma7&label=Profile%20views&color=0e75b6&style=flat" alt="adityasharma7" />
+
 
 ## 👔  About Me
 
@@ -35,6 +36,12 @@ Senior software engineer with over six years of experience leading product devel
 <a href="https://twitter.com/adityapsharma7" target="_blank"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Aditya Sharma | Twitter"/></a>
 <a href="https://stackoverflow.com/users/7130371/aditya-sharma" target="_blank"><img align="left" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Aditya Sharma | Stack Overflow"/></a>  
 <br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityasharma7" alt="adityasharma7" /></a> </p>
 
 ![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=adityasharma7&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharma7)  
+
 <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasharma7"/>
+
+
+
+
