@@ -1,4 +1,4 @@
-![image](https://github.com/adityasharma7/adityasharma7/assets/15027245/11541727-8a36-4164-9762-e8097eb0c92a)
+<img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/9fc15964-0630-4eed-8760-ffd576ecdeb3" />
 
 
 
